@@ -40,7 +40,7 @@ Temiz kod yazımı
 - [Node ve DB Bağlantıları Kılavuz](https://www.freecodecamp.org/news/mongodb-mongoose-node-tutorial/)
 
 ### ReactJS
-
+- [Cheat Sheet](https://www.freecodecamp.org/news/react-cheatsheet-with-real-world-examples/)
 <!-- CSS -->
 ## CSS
 
